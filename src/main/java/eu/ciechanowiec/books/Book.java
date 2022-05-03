@@ -34,7 +34,7 @@ public class Book {
 
     public String obtainFormattedPrice() {
         DecimalFormat priceFormatter = new DecimalFormat("#,##0.00");
-        return priceFormatter.format(price);
+        return "$" + priceFormatter.format(price);
     }
 
     static List<Book> generateSamples() {
