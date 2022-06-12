@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2022-06-12T10:24:10.116Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lU53TwUWI0P70eR6NKAZ" version="20.0.0" type="google">
+  <diagram id="8vwYTYPEBSm2QHgADHY7" name="Page-1">
+    <mxGraphModel dx="1422" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-25" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="440" y="170" width="910" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-22" value="endpoints" style="swimlane;fontSize=18;fillColor=#EDEDED;rounded=0;glass=0;perimeterSpacing=1;startSize=30;" parent="tfEVL8TELzY5mDZsJNWu-25" vertex="1">
+          <mxGeometry x="660" width="250" height="420" as="geometry">
+            <mxRectangle x="1100" y="180" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-23" value="forms" style="swimlane;fontSize=18;fillColor=#EDEDED;rounded=0;glass=0;perimeterSpacing=1;startSize=30;" parent="tfEVL8TELzY5mDZsJNWu-25" vertex="1">
+          <mxGeometry x="460" width="200" height="420" as="geometry">
+            <mxRectangle x="1100" y="180" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="add_book.html" treeRoot="1" id="tfEVL8TELzY5mDZsJNWu-8">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-23" vertex="1">
+            <mxGeometry x="40" y="50" width="130" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="/new" treeRoot="1" id="tfEVL8TELzY5mDZsJNWu-14">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-23" vertex="1">
+            <mxGeometry x="240" y="50" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="/edit" treeRoot="1" id="tfEVL8TELzY5mDZsJNWu-15">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-23" vertex="1">
+            <mxGeometry x="240" y="175" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="/delete" treeRoot="1" id="tfEVL8TELzY5mDZsJNWu-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-23" vertex="1">
+            <mxGeometry x="240" y="300" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;" parent="tfEVL8TELzY5mDZsJNWu-23" source="tfEVL8TELzY5mDZsJNWu-8" target="tfEVL8TELzY5mDZsJNWu-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="edit_book.html" treeRoot="1" id="tfEVL8TELzY5mDZsJNWu-9">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-23" vertex="1">
+            <mxGeometry x="40" y="175" width="130" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;" parent="tfEVL8TELzY5mDZsJNWu-23" source="tfEVL8TELzY5mDZsJNWu-9" target="tfEVL8TELzY5mDZsJNWu-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="all_books.html" treeRoot="1" id="tfEVL8TELzY5mDZsJNWu-2">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-23" vertex="1">
+            <mxGeometry x="-190" y="175" width="130" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-4" value="" style="endArrow=classic;html=1;rounded=1;fontSize=15;strokeWidth=3;" parent="tfEVL8TELzY5mDZsJNWu-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="204.63" as="sourcePoint" />
+            <mxPoint x="-190" y="204.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-5" value="Request" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=18;" parent="tfEVL8TELzY5mDZsJNWu-4" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="tfEVL8TELzY5mDZsJNWu-23" source="tfEVL8TELzY5mDZsJNWu-2" target="tfEVL8TELzY5mDZsJNWu-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="175" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="205" />
+              <mxPoint x="-20" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="tfEVL8TELzY5mDZsJNWu-23" source="tfEVL8TELzY5mDZsJNWu-2" target="tfEVL8TELzY5mDZsJNWu-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="205" />
+              <mxPoint x="-20" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="tfEVL8TELzY5mDZsJNWu-23" source="tfEVL8TELzY5mDZsJNWu-2" target="tfEVL8TELzY5mDZsJNWu-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="205" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;" parent="tfEVL8TELzY5mDZsJNWu-23" source="tfEVL8TELzY5mDZsJNWu-14" target="tfEVL8TELzY5mDZsJNWu-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="80" />
+              <mxPoint x="420" y="390" />
+              <mxPoint x="-125" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;" parent="tfEVL8TELzY5mDZsJNWu-23" source="tfEVL8TELzY5mDZsJNWu-15" target="tfEVL8TELzY5mDZsJNWu-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="210" />
+              <mxPoint x="420" y="390" />
+              <mxPoint x="-125" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;" parent="tfEVL8TELzY5mDZsJNWu-23" source="tfEVL8TELzY5mDZsJNWu-12" target="tfEVL8TELzY5mDZsJNWu-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="330" />
+              <mxPoint x="420" y="390" />
+              <mxPoint x="-125" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-24" value="entrance" style="swimlane;fontSize=18;fillColor=#EDEDED;rounded=0;glass=0;perimeterSpacing=1;startSize=30;" parent="tfEVL8TELzY5mDZsJNWu-25" vertex="1">
+          <mxGeometry x="210" width="250" height="420" as="geometry">
+            <mxRectangle x="1100" y="180" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-27" value="Front-end" style="swimlane;horizontal=0;rounded=0;glass=0;fontSize=18;fillColor=#EDEDED;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="520" y="170" width="830" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tfEVL8TELzY5mDZsJNWu-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="610" />
+              <mxPoint x="480" y="610" />
+              <mxPoint x="480" y="380" />
+            </Array>
+            <mxPoint x="570.037037037037" y="685" as="sourcePoint" />
+            <mxPoint x="520" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-37" value="Back-end" style="swimlane;horizontal=0;rounded=0;glass=0;fontSize=18;fillColor=#EDEDED;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="520" y="590" width="520" height="365" as="geometry" />
+        </mxCell>
+        <mxCell id="PUU5W950MTkHCyUiA7Ja-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="tfEVL8TELzY5mDZsJNWu-37" source="tfEVL8TELzY5mDZsJNWu-46" target="PUU5W950MTkHCyUiA7Ja-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="BooksController" treeRoot="1" id="tfEVL8TELzY5mDZsJNWu-46">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-37" vertex="1">
+            <mxGeometry x="90" y="40" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PUU5W950MTkHCyUiA7Ja-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="tfEVL8TELzY5mDZsJNWu-37" source="PUU5W950MTkHCyUiA7Ja-1" target="PUU5W950MTkHCyUiA7Ja-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="BooksService" treeRoot="1" id="PUU5W950MTkHCyUiA7Ja-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-37" vertex="1">
+            <mxGeometry x="90" y="150" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BooksRepository" treeRoot="1" id="PUU5W950MTkHCyUiA7Ja-2">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-37" vertex="1">
+            <mxGeometry x="90" y="250" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-29" value="Resetter" style="swimlane;rounded=0;glass=0;fontSize=18;fillColor=#EDEDED;swimlaneLine=1;startSize=30;" parent="tfEVL8TELzY5mDZsJNWu-37" vertex="1">
+          <mxGeometry x="280" y="40" width="200" height="195" as="geometry" />
+        </mxCell>
+        <UserObject label="ResetTask" treeRoot="1" id="tfEVL8TELzY5mDZsJNWu-30">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-29" vertex="1">
+            <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;" parent="tfEVL8TELzY5mDZsJNWu-29" source="tfEVL8TELzY5mDZsJNWu-31" target="tfEVL8TELzY5mDZsJNWu-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Resetter" treeRoot="1" id="tfEVL8TELzY5mDZsJNWu-31">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;rounded=1;" parent="tfEVL8TELzY5mDZsJNWu-29" vertex="1">
+            <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-48" value="Cloud Books Manager&#xa;- program architecture -" style="swimlane;rounded=0;glass=0;fontSize=18;fillColor=#EDEDED;startSize=70;" parent="1" vertex="1">
+          <mxGeometry x="520" y="100" width="830" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-49" value="MySQL&lt;br&gt;Cloud Server" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;fontSize=18;fillColor=#D6D6D6;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1150" y="660" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tfEVL8TELzY5mDZsJNWu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="PUU5W950MTkHCyUiA7Ja-2" target="tfEVL8TELzY5mDZsJNWu-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="930.037037037037" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
